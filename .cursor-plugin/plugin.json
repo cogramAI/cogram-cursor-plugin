@@ -1,0 +1,14 @@
+{
+  "name": "cogram-project",
+  "version": "1.0.0",
+  "description": "Read-only access to Cogram projects, meetings, email, RFIs and drawings for architects and engineers",
+  "author": {
+    "name": "Cogram"
+  },
+  "homepage": "https://cogram.com",
+  "repository": "https://github.com/cogramAI/cogram-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["architecture", "engineering", "construction", "project management", "document management", "RFIs", "submittals", "meetings"],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
